@@ -15,5 +15,6 @@ public class ERAURISK {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("I just wanna go home");
     }
 }
